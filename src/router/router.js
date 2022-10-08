@@ -30,7 +30,9 @@ const routes = [
 
 const router = createRouter({
   routes,
-  history: createWebHistory(),
+  history: createWebHistory(
+    process.env.NODE_ENV === "production" ? "/vue3-blog-app/" : "/"
+  ),
 });
 
 export default router;

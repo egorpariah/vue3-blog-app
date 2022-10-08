@@ -1,19 +1,22 @@
-# vue3-blog-app
+# Vue 3 Blog App
 
-## Project setup
-```
-npm install
-```
+SPA Blog on Vue3 + Vue Router + Vuex + Composition API + Axios
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+I implemented several variants of app:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1. Vue 3 + Vue Router
+2. ... \+ Vuex
+3. ... \+ Composition API
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Deploy of this project on GitHub Pages [Vue 3 Blog App](https://egorpariah.github.io/vue3-blog-app/)
+
+## Local Run
+
+- Clone the repository
+- Run `npm install` in a root directory of your repo
+- Run `npm run serve`
+
+## Scripts
+
+- `npm run build` — build in prod-mode
+- `npm run serve` — run live-server in dev-mode

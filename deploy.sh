@@ -9,7 +9,7 @@ cd dist
 git init
 git add -A
 git commit -m 'deploy'
-
-git push -f git@github.com:egorpariah/vue3-blog-app.git main:gh-pages
+git branch -M main
+git push -f https://github.com/egorpariah/vue3-blog-app.git main:gh-pages
 
 cd -
