@@ -1,4 +1,4 @@
-# vue3-complex-app
+# vue3-blog-app
 
 ## Project setup
 ```
