@@ -8,7 +8,7 @@ I implemented several variants of app:
 2. ... \+ Vuex
 3. ... \+ Composition API
 
-Deploy of this project on GitHub Pages [Vue 3 Blog App](https://egorpariah.github.io/vue3-blog-app/)
+Deploy of this project on GitHub Pages: [Vue 3 Blog App](https://egorpariah.github.io/vue3-blog-app/)
 
 ## Local Run
 
